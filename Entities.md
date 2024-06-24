@@ -5,7 +5,8 @@ B
 - Beast (L30)
 
 C
-- Code Fragments (L%nan%)
+- ![Code Fragments](https://github.com/Redstel/Lunar-rooms-wiki/blob/main/CodeFragments.md)
+(L%nan%)
 
 E
 - Empty Mind (L10)
