@@ -10,7 +10,7 @@ The "beast" entity it appears to be a giant mouth with a body, and one tail behi
 
 # Curiosities
 - The "beast" entity can appear on a table.
-- When the "beast" entity appears, it emits the sound of a player hitting a "gutonny cranium" with a locker door.
+- When the "beast" entity appears, it emits the sound of a player hitting a "glutonny cranium" with a locker door.
 
 # Gallery
 ![106 Sem Título_20240624173822](https://github.com/Redstel/Lunar-rooms-wiki/assets/168801295/73d5b3ec-8b52-4d45-8f85-ae4484dad89e)
