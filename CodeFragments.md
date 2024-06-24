@@ -12,8 +12,7 @@ the appearance of Code Fragments is a red skull
 with black eyes.
 
 # Curiosities
-- Code fragments can appear when the player are caught
- by "", and he saves the player.
+- Code fragments can appear when the player are caught by the entity called "empty mind" early, and he saves the player.
 
 # Gallery
 ![download (4)](https://github.com/Redstel/Lunar-rooms-wiki/assets/168801295/a06ac8a7-122e-4cb4-8637-1cd6f1e806a9)
