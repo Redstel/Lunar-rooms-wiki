@@ -1,25 +1,26 @@
 # Entities
+
 This category contains all entities in the mod.
 
-B
+## B
 - Beast (L30)
 
-C
+## C
 - ![Code Fragments](https://github.com/Redstel/Lunar-rooms-wiki/blob/main/CodeFragments.md)
 (L%nan%)
 
-E
+## E
 - Empty Mind (L10)
 
-G
+## G
 - Gluttenous Cranium (L99)
   
-J
+## J
 - Joyful insanity (L120)
 - Joyful insanity 2 (L200)
 
-N
+## N
 - Noturn Cannibal (L70)
 
-R
+## R
 - Remorse (L240)
