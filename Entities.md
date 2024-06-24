@@ -3,7 +3,7 @@
 This category contains all entities in the mod.
 
 ## B
-- Beast (L30)
+- ![Beast](https://github.com/Redstel/Lunar-rooms-wiki/blob/main/Beast.md) (L30)
 
 ## C
 - ![Code Fragments](https://github.com/Redstel/Lunar-rooms-wiki/blob/main/CodeFragments.md)
