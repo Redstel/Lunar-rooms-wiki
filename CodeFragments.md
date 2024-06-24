@@ -5,9 +5,7 @@
 
 # About
 The entity "Code Fragments" (L%nan%) is a entity
-that appears when a failure it happens in the game
-or as an anti cheat (when the player uses hack/cheat
-/exploit/Mod_menus).
+that appears when a failure it happens in the mod or as an anti cheat (when the player uses hack/cheat/exploit/Mod_menus).
 
 # Appearance
 the appearance of Code Fragments is a red skull
