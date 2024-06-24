@@ -1,6 +1,7 @@
 # Code Fragments (L%nan%)
 ![download (4)](https://github.com/Redstel/Lunar-rooms-wiki/assets/168801295/d3aa86e3-d053-4b4d-a33f-4d98748d78aa) 
-(Code fragments entity image)
+
+ (Code fragments entity image)
 
 # Appearance
 the appearance of Code Fragments is a red skull
