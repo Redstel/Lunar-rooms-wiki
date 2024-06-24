@@ -22,7 +22,4 @@ with black eyes.
 
 (Code Fragments visual)
 
-https://github.com/Redstel/Lunar-rooms-wiki/assets/168801295/ad8afad9-e28e-4bd8-b3aa-5dc9185880b5
-
-(Code Fragments anti-cheat system)
 
