@@ -16,3 +16,8 @@ or as an anti cheat (when the player uses hack/cheat
 # Curiosities
 - Code fragments can appear when the player are caught
  by "", and he saves the player.
+
+# Gallery
+![download (4)](https://github.com/Redstel/Lunar-rooms-wiki/assets/168801295/a06ac8a7-122e-4cb4-8637-1cd6f1e806a9)
+(Code Fragments visual)
+
