@@ -24,3 +24,7 @@ The jumpscare of "Joyful insanity 2" and the jumpscare of "Joyful insanity 1" we
 ## Reason:
 These faces were ugly and were literally over 20MB!
 
+## deleted Failed attempts to make "Joyful Insanity 2"
+
+## Summary of appearances:
+From what I remember the faces were white eyes with the hands of the "L10",they were bad so I decided to delete them.
