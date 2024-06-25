@@ -6,7 +6,7 @@ This category has everything that was discarded from the mod (either because it 
 (Joyful insanity 2 jumpscare image)
 
 ![22 Sem Título_20240624213350](https://github.com/Redstel/Lunar-rooms-wiki/assets/168801295/258e265f-a077-4666-ac5c-e69d8e8a602a)
-(Joyful Insanity 1 jumpscare inage)
+(Joyful Insanity 1 jumpscare image)
 
 
 ## Reason:
