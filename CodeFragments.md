@@ -17,6 +17,10 @@ with black eyes.
 # Gallery
 ![download (4)](https://github.com/Redstel/Lunar-rooms-wiki/assets/168801295/a06ac8a7-122e-4cb4-8637-1cd6f1e806a9)
 
-(Code Fragments visual)
+- (Code Fragments visual)
+
+https://github.com/Redstel/Lunar-rooms-wiki/assets/168801295/1cec05f5-8ddc-4f6c-84e7-d497c2b11efc
+- (Code Fragments saving the player from "Empty Mind")
+
 
 
