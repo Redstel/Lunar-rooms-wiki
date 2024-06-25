@@ -16,6 +16,7 @@ Not used
  
 # Others:
 
-![Mod key (latest)](https://www.mediafire.com/file/fj9ongetzhvz32d/Lunar_rooms_V1.6.txt/file)
+Mod key (latest):
+https://www.mediafire.com/file/fj9ongetzhvz32d/Lunar_rooms_V1.6.txt/file
 
 
