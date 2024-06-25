@@ -13,7 +13,7 @@ This category contains all entities in the mod.
 - Empty Mind (L10)
 
 ## G
-- Gluttenous Cranium (L99)
+- ![Gluttenous Cranium](https://github.com/Redstel/Lunar-rooms-wiki/blob/main/GluttenousCranium.md) (L99)
   
 ## J
 - Joyful insanity (L120)
