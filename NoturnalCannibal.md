@@ -11,4 +11,6 @@ This entity changes its appearance as it walks,however its main appearance looks
 # Curiosities
 - If the player arrives late at the locker but survives the "Noturnal Cannibal" he loses part of his life instead of dying.
 - The sound of "Noturnal cannibal" It's from a Roblox static radio audio.
-- The "Noturnal Cannibal" Th a clone made by "Gluttonous crânium"
+- The "Noturnal Cannibal" have a himself clone made by "Gluttenous crânium".
+- The fifth appearance of "Noturnal Cannibal" was inspired by the entity "beast".
+- The first appearance of "Noturnal cannibal" is a reference to "
