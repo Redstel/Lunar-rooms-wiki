@@ -10,4 +10,4 @@ This category has everything that was discarded from the mod (either because it 
 
 
 ## Reason:
-The jumpscare from "Joyful insanity 2" and the jumpscare from "Joyful insanity 1" were not used its because you couldn't change the A200 and A120 jumpscare in Rooms & Doors.
+The jumpscare of "Joyful insanity 2" and the jumpscare of "Joyful insanity 1" were not used its because you couldn't change the A200 and A120 jumpscare in Rooms & Doors.
