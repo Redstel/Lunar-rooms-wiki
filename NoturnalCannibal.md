@@ -13,4 +13,4 @@ This entity changes its appearance as it walks,however its main appearance looks
 - The sound of "Noturnal cannibal" It's from a Roblox static radio audio.
 - The "Noturnal Cannibal" have a himself clone made by "Gluttenous crânium".
 - The fifth appearance of "Noturnal Cannibal" was inspired by the entity "beast".
-- The first appearance of "Noturnal cannibal" is a reference to "
+- The first appearance of "Noturnal cannibal" is a reference to "A20" from another R&D mod called:"Rooms & Doors:Purgatory".
