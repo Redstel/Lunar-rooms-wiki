@@ -4,6 +4,8 @@
 
 Welcome to the R&D mod called "Lunar Rooms",here you can see everything that is in the mod including entities and etc. 
 
+- WARNING: The mod was made by Redstell/Mago_pool only,If any liar claims it was done by him, he will be REPORTED.
+
 # Categories
 
 ![Entities](https://github.com/Redstel/Lunar-rooms-wiki/blob/main/Entities.md)
