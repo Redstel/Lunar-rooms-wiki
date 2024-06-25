@@ -33,7 +33,7 @@ This entity changes its appearance as it walks,however its main appearance looks
 
 ![108 Sem Título_20240625020512](https://github.com/Redstel/Lunar-rooms-wiki/assets/168801295/db1feeff-1d62-4849-a6c0-7b00de54058d)
 ![Uploading 108 Sem Título_20240625020512.png…]()
-
+(sixth appearance of "Noturnal Cannibal")
 
 
 
