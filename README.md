@@ -6,11 +6,11 @@ Welcome to the R&D mod called "Lunar Rooms",here you can see everything that is 
 
 # Categories
 
-## ![Entities](https://github.com/Redstel/Lunar-rooms-wiki/blob/main/Entities.md)
+![Entities](https://github.com/Redstel/Lunar-rooms-wiki/blob/main/Entities.md)
 
-## Light sources
+Light sources
 
-## Not used
+Not used
  
  
  
