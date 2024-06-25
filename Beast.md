@@ -15,6 +15,6 @@ The "beast" entity it appears to be a giant mouth with a body, and one tail behi
 # Gallery
 ![106 Sem Título_20240624173822](https://github.com/Redstel/Lunar-rooms-wiki/assets/168801295/73d5b3ec-8b52-4d45-8f85-ae4484dad89e)
 
-(the appearance of the "beast" entity)
+(the visual of the "beast" entity)
 
 
