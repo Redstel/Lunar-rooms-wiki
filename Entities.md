@@ -20,7 +20,7 @@ This category contains all entities in the mod.
 - Joyful insanity 2 (L200)
 
 ## N
-- Noturn Cannibal (L70)
+- ![Noturn Cannibal](https://github.com/Redstel/Lunar-rooms-wiki/blob/main/NoturnalCannibal.md) (L70)
 
 
 ## R
