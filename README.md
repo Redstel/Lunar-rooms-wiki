@@ -6,9 +6,9 @@ hello! be welcome to the R&D mod called "Lunar Rooms",here you can see everythin
 
 # Categories
 
-Entities
+## ![Entities](https://github.com/Redstel/Lunar-rooms-wiki/blob/main/Entities.md)
 
-Light sources
+## Light sources
 
-candidates for exclusion
+## candidates for exclusion
 
