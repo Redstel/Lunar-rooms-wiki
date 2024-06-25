@@ -14,3 +14,20 @@ This entity changes its appearance as it walks,however its main appearance looks
 - The "Noturnal Cannibal" have a himself clone made by "Gluttenous crânium".
 - The fifth appearance of "Noturnal Cannibal" was inspired by the entity "beast".
 - The first appearance of "Noturnal cannibal" is a reference to "A20" from another R&D mod called:"Rooms & Doors:Purgatory".
+
+# Gallery
+![108 Sem Título_20240625011947](https://github.com/Redstel/Lunar-rooms-wiki/assets/168801295/26371901-f9cc-4f1a-a8ff-ed3894fb98ca)
+(first appearance of "Noturnal Cannibal")
+
+![108 Sem Título_20240625012000](https://github.com/Redstel/Lunar-rooms-wiki/assets/168801295/14ab177c-1c0b-4d19-8260-a48533a67c7e)
+(second appearance of "Noturnal cannibal")
+
+![108 Sem Título_20240625011507](https://github.com/Redstel/Lunar-rooms-wiki/assets/168801295/7951ab57-7e81-471b-8fc4-c0f304738f07)
+(third appearance of "Noturnal Cannibal")
+
+![108 Sem Título_20240625011307](https://github.com/Redstel/Lunar-rooms-wiki/assets/168801295/5bb76f9d-cce5-4f46-958d-59bc7f0eaacd)
+(fourth appearance of "Noturnal Cannibal")
+
+
+
+
