@@ -1,6 +1,6 @@
 # Beast (L30)
 ![106 Sem Título_20240624173822](https://github.com/Redstel/Lunar-rooms-wiki/assets/168801295/ef9ab21f-1bbc-4db4-af50-77957edc74c3)
-(image of the entity called (beast) ).
+(image of the entity called "beast").
 
 # About
 The entity "beast" is an entity that can appear (have a chance) when the player tries to escape a entity entering in a locker.
