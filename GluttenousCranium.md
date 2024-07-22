@@ -3,7 +3,7 @@
 (Gluttenous Crânium visual)
 
 # About
-The entity "Gluttenous Crânium" It's a skull that makes click sounds with your throat as it walks,she looks for players to eat them into pieces (because players are human, and humans have meat,and the "Gluttenous Crânium" likes meat), To avoid the "Gluttenous Crânium", the player needs make silence and proceed to the next room or hit the "Gluttenous Crânium" with a locker door,clicking the exit button (the red button) along with running button (blue button)."Gluttenous Crânium" Also clones:"Joyful insanity 2", "noturnal cannibal" and "Your Fragments"
+The entity "Gluttenous Crânium" It's a skull that makes click sounds with your throat as it walks,she looks for players to eat them into pieces (because players are human, and humans have meat,and the "Gluttenous Crânium" likes meat), To avoid the "Gluttenous Crânium", the player needs make silence and proceed to the next room or hit the "Gluttenous Crânium" with a locker door,clicking the exit button (the red button) along with running button (blue button)."Gluttenous Crânium" Also clones:"Joyful Insanity 2", "Noturnal Cannibal" and "Your Fragments"
 
 # Appearance
 The entity "Gluttenous Crânium" it's a purple crânium with white and black eyes.
