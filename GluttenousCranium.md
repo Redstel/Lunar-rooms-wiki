@@ -9,8 +9,9 @@ The entity "Gluttenous Crânium" It's a skull that makes click sounds with your 
 The entity "Gluttenous Crânium" it's a purple crânium with white and black eyes.
 
 # Curiosities
-- The "Gluttenous Crânium" clones the entities "joyful insanity 2,"noturnal cannibal" and "Your Fragments" Because he is gluttenous (obviously, because of his name).
-- The "Gluttenous Crânium" cannot clone "Joyful insanity 1" because the "Gluttenous Crânium" doesn't know the weaknesses of "Joyful Insanity 1".
+- The "Gluttenous Crânium" clones the entities "Joyful Insanity 2,"Noturnal Cannibal" and "Your Fragments" Because he is gluttenous (obviously, because of his name).
+- The "Gluttenous Crânium" cannot clone "Joyful Insanity 1" because the "Gluttenous Crânium" doesn't know the weaknesses of "Joyful Insanity 1".
+- The "Gluttenous Crânium" can be killed by "Joyful Insanity 1" and "Joyful Insanity 2".
 
 # Gallery
 ![106 Sem Título_20240624173758](https://github.com/Redstel/Lunar-rooms-wiki/assets/168801295/d7aaceaf-8ccc-492d-9c6c-1ea1871d991f)
