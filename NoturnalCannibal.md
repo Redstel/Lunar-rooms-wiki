@@ -1,5 +1,5 @@
 # Noturnal feast
-![108 Sem Título_20240625011947](https://github.com/Redstel/Lunar-rooms-wiki/assets/168801295/96871b2a-c22e-4b69-b873-603c9b8daca8)
+![108 Sem Título_20240625011254](https://github.com/Redstel/Lunar-rooms-wiki/assets/168801295/84dfc777-29e3-4f00-9823-ac188f71d9c3)
 (One of the appearances from "Noturnal Feast")
 
 # About
